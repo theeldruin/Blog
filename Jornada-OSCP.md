@@ -53,10 +53,10 @@ Para fazer o exame eu foquei inicialmente no Ambiente AD, pois sem ele eu não t
 Fiz todo o scan nas máquinas, identifiquei qual(is) seriam Domain Controllers e comecei a exploração a partir das informações que obtive.
 Após aprox. 7h eu havia conseguido comprometer todas as 3 máquinas do AD
 
-Depois disso partir para as outras 3 máquinas.
-Fiz o scan nas 3 máquinas e comecei a enumeração.
-Depois de algum tempo em cada uma dela foi possível identificar uma vulnerabilidade crítica, o que me deu acesso as máquinas
-Depois de uma vasta pós-exploração foi possível identificar pontos para elevação de privilégios.
+Depois disso parti para as outras 3 máquinas.
+Fiz o scan nelas e comecei a enumeração.
+Depois de algum tempo em cada umas delas foi possível identificar uma vulnerabilidade crítica, o que me deu o acesso inicial.
+Depois de uma vasta pós-exploração foi possível identificar pontos para elevação de privilégios e conseguir acesso administrador/root.
 
 🏆Resultado Final: Todas as máquinas comprometidas - 100 Pontos
 
