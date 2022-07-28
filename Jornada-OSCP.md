@@ -65,6 +65,6 @@ Depois de uma vasta pós-exploração foi possível identificar pontos para elev
     - Sugestão: Faça todas as máquinas sugeridas de uma plataforma (exemplo: HackTheBox), depois que terminar volte e tente fazer tudo novamente
  - A OSCP não é TÃO difícil quanto a fama dela. Faça os exercícios sugeridos, revise as informações e tenha calma durante a prova
  - Anote TUDO durante seus estudos. Recomendo colocar o máximo de informações possível em um único arquivo para ir consultando durante o exame.
- - Eu particularmente tenho um arquivo no CherryTree com comandos, rotinas de exploração, opções de ferramentas com exemplos. Enfim, faça do seu jeito e certifique-se de que você se localiza no arquivo
+   - Eu particularmente tenho um arquivo no CherryTree com comandos, rotinas de exploração, opções de ferramentas com exemplos. Enfim, faça do seu jeito e certifique-se de que você se localiza no arquivo
  - Durante a prova anote todos os comandos utilizados e registre todas as saídas dos comandos com prints. Isso facilitará na hora de fazer o relatório
  - No meu terceiro exame não caiu BufferOverflow, mas recomendo estas máquinas para praticar (https://tryhackme.com/room/bufferoverflowprep e https://tryhackme.com/room/gatekeeper)
